@@ -1,0 +1,23 @@
+* {
+    font-size: 16px;
+    font-family: 'Noto Sans', 'sans-serif';
+    line-height: 1;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    word-break: keep-all;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    border: none;
+    background-color: none;
+}
