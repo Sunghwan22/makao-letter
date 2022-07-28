@@ -1,0 +1,12 @@
+#slogan {
+    position: relative;
+    padding-top: 50vw;
+    border-bottom: 1px solid black;
+    background-color: white;
+    z-index: -100;
+}
+
+#slogan img{
+    position: absolute;
+    top: -13vw;
+}
